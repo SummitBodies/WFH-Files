@@ -1,0 +1,6 @@
+rstk__icitem__c,Id,rstk__externalid__c,,"Select rstk__externalid__c , Id from rstk__icitem__c Where rstk__icitem_div__r.Name like '%Bodies%' and rstk__externalid__c in ('STB_300-70031',",rstk__icitem_invuom__c,rstk__icitem_ltmfgwoshopflr__c,rstk__icitem_sspolqty__c,rstk__icitem_mrpminqty__c,rstk__icitem_mrpmaxqty__c,rstk__icitem_mrpminqtyind__c,rstk__icitem_mrpmaxqtyind__c,rstk__icitem_sspolqtyind__c,rstk__icitem_ltmfgwoshopflrind__c,,,,,,,,,,,,,,,
+,a2um0000001PFIRAA4,400-02204,STB_400-02204,"'STB_400-02204',",EA,21,40,12,1012,FALSE,FALSE,FALSE,FALSE,,,_,rstk__externalid__c,Id,,,,,,,,,,
+,a2um0000001PFJPAA4,800-96964,STB_800-96964,"'STB_800-96964',",EA,14,60,66,1066,FALSE,FALSE,FALSE,FALSE,,,[rstk__icitem__c],STB_800-77539,a2um0000001YdwsAAC,,,,,,,,,,
+,a2um0000001PFJQAA4,800-96974,STB_800-96974,"'STB_800-96974',",EA,14,70,10,1010,FALSE,FALSE,FALSE,FALSE,,,[rstk__icitem__c],STB_DPTD-18,a2um0000001YdwtAAC,,,,,,,,,,
+,a2um0000001PFKOAA4,500-00360,STB_500-00360,"'STB_500-00360',",EA,14,40,25,1025,FALSE,FALSE,FALSE,FALSE,,,[rstk__icitem__c],STB_800-50488,a2um0000001YdwuAAC,,,,,,,,,,
+,a2um0000001YdeDAAS,400-33689,STB_400-33689,"'STB_400-33689',",EA,14,12,40,1040,FALSE,FALSE,FALSE,FALSE,,,[rstk__icitem__c],STB_800-50808,a2um0000001YdwvAAC,,,,,,,,,,
